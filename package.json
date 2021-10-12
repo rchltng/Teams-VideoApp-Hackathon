@@ -16,6 +16,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "copyfiles": "^2.4.1"
+    "copyfiles": "^2.4.1",
+    "yarn": "^1.22.15"
   }
 }

@@ -3,21 +3,21 @@
   "manifestVersion": "devPreview",
   "version": "1.0.0",
   "showLoadingIndicator": true,
-  "id": "b15f97b7-1f9b-4bb7-ac9f-efddf27aae7b",
+  "id": "b15f97b7-1f9b-4bb7-ac9f-efddf27aae7d",
   "packageName": "com.microsoft.teams.videopp",
   "developer": {
     "name": "Hackathon-team",
-    "websiteUrl": "https://richa008.github.io/Teams-VideoApp-Hackathon",
-    "privacyUrl": "https://richa008.github.io/Teams-VideoApp-Hackathon",
-    "termsOfUseUrl": "https://richa008.github.io/Teams-VideoApp-Hackathon"
+    "websiteUrl": "https://rchltng.github.io/Teams-VideoApp-Hackathon",
+    "privacyUrl": "https://rchltng.github.io/Teams-VideoApp-Hackathon",
+    "termsOfUseUrl": "https://rchltng.github.io/Teams-VideoApp-Hackathon"
   },
   "icons": {
     "color": "icon-color.png",
     "outline": "icon-outline.png"
   },
   "name": {
-    "short": "Teams VideoApp example",
-    "full": "Teams VideoApp example"
+    "short": "rachael VideoApp example",
+    "full": "rachael VideoApp example"
   },
   "description": {
     "short": "This repo demonstrate a minimal Teams video app.",
@@ -39,7 +39,7 @@
       ]
     }
   },
-  "validDomains": ["richa008.github.io"],
+  "validDomains": ["rchltng.github.io"],
   "localizationInfo": {
     "defaultLanguageTag": "en-us"
   },
@@ -51,6 +51,6 @@
         "thumbnail": "half.png"
       }
     ],
-    "videoAppContentUrl": "https://richa008.github.io/Teams-VideoApp-Hackathon/app/index.html"
+    "videoAppContentUrl": "https://rchltng.github.io/Teams-VideoApp-Hackathon/app/index.html"
   }
 }
