@@ -16,8 +16,8 @@
     "outline": "icon-outline.png"
   },
   "name": {
-    "short": "rachael VideoApp example",
-    "full": "rachael VideoApp example"
+    "short": "rachael filter",
+    "full": "rachael filter"
   },
   "description": {
     "short": "This repo demonstrate a minimal Teams video app.",
@@ -47,7 +47,7 @@
     "filters": [
       {
         "id": "f36d7f68-7c71-41f5-8fd9-ebf0ae38f949",
-        "name": "half",
+        "name": "half-rachael",
         "thumbnail": "half.png"
       }
     ],
