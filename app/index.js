@@ -25,8 +25,8 @@ function videoFrameHandler(videoFrame, notifyVideoProcessed, notifyError) {
 
     for (let i = 0; i < videoFrame.data.length; i++) {
       // Invert the colors
-      videoFrame.data[i] = 125 -videoFrame.data[i];
-      videoFrame.data[i] = 55 -videoFrame.data[i];
+      videoFrame.data[i] = 100 -videoFrame.data[i];
+      videoFrame.data[i] = 50 -videoFrame.data[i];
     }
 
 
