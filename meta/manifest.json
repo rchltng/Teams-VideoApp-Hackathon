@@ -3,7 +3,7 @@
   "manifestVersion": "devPreview",
   "version": "1.0.0",
   "showLoadingIndicator": true,
-  "id": "b15f97b7-1f9b-4bb7-ac9f-efddf27abe7e",
+  "id": "b15f97b7-1f9b-4bb7-ac9f-efddf26abe7e",
   "packageName": "com.microsoft.teams.videopp",
   "developer": {
     "name": "Hackathon-team",
@@ -16,8 +16,8 @@
     "outline": "icon-outline.png"
   },
   "name": {
-    "short": "rachael filter",
-    "full": "rachael filter"
+    "short": "rachael filter 2",
+    "full": "rachael filter 2"
   },
   "description": {
     "short": "This repo demonstrate a minimal Teams video app.",
@@ -46,8 +46,8 @@
   "meetingExtensionDefinition": {
     "filters": [
       {
-        "id": "f36d7f68-7c71-41f5-8fd9-ebf0ae38f949",
-        "name": "half-rachael",
+        "id": "f36d7f68-7c71-41f5-8fd9-ebf0ae38f948",
+        "name": "half-rachael 1",
         "thumbnail": "half.png"
       }
     ],
